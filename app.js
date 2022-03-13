@@ -10,7 +10,7 @@ app.use(express.urlencoded({extended: true}));
 
 //PASTE YOUR API KEY HERE
 const API_key = "";
-//THE LAST TWO DIGITS OF YOUR API KEY, FOR EXAMPLE, us-15, so put 15 below
+//THE LAST TWO DIGITS OF YOUR API KEY, FOR EXAMPLE, us15, so put 15 below
 const last_two_digits ="";
 //LIST ID FROM MAILCHIMP
 const list_id = "";
